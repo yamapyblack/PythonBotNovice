@@ -1,10 +1,12 @@
 # PythonBotNovice
 
+install library
+
 ```
 pip install -r requirements.txt
 ```
 
-install library
+add library
 
 ```
 pip install requests
