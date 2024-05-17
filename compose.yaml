@@ -1,0 +1,9 @@
+services:
+  main1:
+    build:
+      context: .
+    environment:
+      USER_ADDRESS: ${USER_ADDRESS}
+      SECRET_KEY: ${SECRET_KEY}
+      DISCORD_WEBHOOK_URL: ${DISCORD_WEBHOOK_URL}
+    restart: unless-stopped
