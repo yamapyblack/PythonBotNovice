@@ -1,24 +1,6 @@
 # PythonBotNovice
 
-install library
-
-```
-pip install -r requirements.txt
-```
-
-add library
-
-```
-pip install requests
-```
-
-write requirements.txt
-
-```
-pip freeze > requirements.txt
-```
-
-** pyenv
+## Create enviroment
 
 https://qiita.com/teri_man95/items/b15fd8f1964612331be2
 
@@ -57,6 +39,28 @@ deactivate
 ```
 pyenv deactivate
 ```
+
+## Install
+
+install library
+
+```
+pip install -r requirements.txt
+```
+
+add library
+
+```
+pip install requests
+```
+
+write requirements.txt
+
+```
+pip freeze > requirements.txt
+```
+
+## Execution
 
 test
 
