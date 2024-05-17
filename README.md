@@ -32,6 +32,12 @@ change python version (local)
 pyenv local 3.12.0
 ```
 
+install virtualenv
+
+```
+pip install virtualenv
+```
+
 create virtual env
 
 ```
